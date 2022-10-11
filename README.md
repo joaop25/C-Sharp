@@ -17,6 +17,7 @@ O que me traz mais satisfação é atingir um objetivo, observando o quanto apre
 Veja os projetos publicados por João Pedro Fernandes:
 
 * **WEB API - Livraria:** https://github.com/joaop25/Livraria_WebApi_Swagger
+* **Cronômetro para Tarefas:** https://github.com/joaop25/Cronometragem-de-Tarefas
 * **Registro de Ponto:** https://github.com/joaop25/C-Sharp/tree/main/Registro_de_Ponto
 * **Consultado API Via CEP:** https://github.com/joaop25/C-Sharp/tree/main/Consultado%20API%20CEP
 ---
