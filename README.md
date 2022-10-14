@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="backend.jpg" >
+  <img src="backend-jp.jpg" >
 </p>
 
 # João Pedro Fernandes
