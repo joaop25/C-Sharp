@@ -6,7 +6,7 @@
 
 O que me traz mais satisfação é atingir um objetivo, observando o quanto aprendi durante meu percurso, além do quanto consegui agregar para a resolução do problema abordado. Sou uma pessoa extremamente apaixonada por tecnologia e dados, estando sempre determinado a utilizar a melhor e mais avançada (se eficiente) solução para resolver algum problema. Além disso, valorizo muito a criatividade, a vontade de inovar e de fazer a diferença, são princípios básicos que carrego comigo. O conhecimento e o aprendizado me movem; interagir com as pessoas, ouvi-las e aprender com suas experiências me fazem uma pessoa melhor.
 
-**Background in:** .NET, C#, Python, Machine Learning, Mathematical Optimisation, Planning, VBA e Power BI
+**Background in:** .NET, C#, Python, Machine Learning, Planning, VBA e Power BI
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/joao-pedro-fernandes-95a125180/)
