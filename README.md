@@ -18,7 +18,7 @@ Veja os projetos publicados por João Pedro Fernandes:
 
 * **API Rest - Produtos:** https://github.com/joaop25/ApiRest-Produtos
 * **Remember Words:** https://github.com/joaop25/RememberWords/tree/main
-* * **WEB API - Livraria:** https://github.com/joaop25/Livraria_WebApi_Swagger
+* **WEB API - Livraria:** https://github.com/joaop25/Livraria_WebApi_Swagger
 * **Prvisão de Demanda - ML.NET:** https://github.com/joaop25/PrevisaoDeDemanda
 * **Hamburgueria - Projeto Criacional Builder:** https://github.com/joaop25/HamburguerBuilder
 * **Cronômetro para Tarefas:** https://github.com/joaop25/Cronometragem-de-Tarefas
