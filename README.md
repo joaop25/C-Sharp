@@ -16,6 +16,7 @@ O que me traz mais satisfação é atingir um objetivo, observando o quanto apre
 ## Projetos:
 Veja os projetos publicados por João Pedro Fernandes:
 
+* **ASP.NET MVC - Escola :** https://github.com/joaop25/MeuSiteMVC
 * **API Rest - Produtos:** https://github.com/joaop25/ApiRest-Produtos
 * **Remember Words:** https://github.com/joaop25/RememberWords/tree/main
 * **WEB API - Livraria:** https://github.com/joaop25/Livraria_WebApi_Swagger
